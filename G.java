@@ -1,4 +1,4 @@
 class G{
 public static void main(String [] args){
-System.out.println("HEllo Version 1");
+System.out.println("HEllo Version 2.0");
 }}
